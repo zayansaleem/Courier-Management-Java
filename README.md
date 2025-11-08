@@ -65,17 +65,6 @@ A desktop application built using **Java (Swing)** and **MySQL** to manage couri
 
 ---
 
-## ✅ Screenshots (optional)
-Add screenshots if you want (makes GitHub look more professional)
-
----
-
-## 📌 Future Improvements
-- Email/SMS notifications for status updates
-- Live GPS tracking
-- Admin dashboard
-
----
 
 ## 👤 Author
 **Zayan Saleem**
