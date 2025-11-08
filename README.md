@@ -1,0 +1,26 @@
+📦 Courier Management & Tracking System (Java, Swing, MySQL)
+
+A desktop application built using **Java (Swing)** and **MySQL** to manage courier bookings, tracking, employees, and user accounts.
+
+---
+
+## ✅ Features
+✔ Book courier with details (sender, receiver, weight, address, etc.)  
+✔ Auto-generated tracking ID  
+✔ Track courier status using tracking number  
+✔ Manage user accounts (registration + login verification)  
+✔ Employee details update  
+✔ **History Module** – shows all past bookings of a user  
+✔ Stores all records in MySQL database
+
+---
+
+## 🧰 Technologies Used
+- Java (Swing UI)
+- MySQL Database
+- JDBC Connector
+- IntelliJ IDEA
+
+---
+
+## 📂 Project Structure
